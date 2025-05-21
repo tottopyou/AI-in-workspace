@@ -16,7 +16,7 @@ Generate the `n`-th Fibonacci number.
 
 ### 📊 Benchmark Results
 
-SLOW IMPLEMENTATION:
+ORIGINAL IMPLEMENTATION:
 | n       | Time (s)  |
 |---------|-----------|
 | 5       | 0.008644  |
@@ -28,7 +28,7 @@ SLOW IMPLEMENTATION:
 | 20000   | error     |
 | 3000000 | error     |
 
-FAST IMPLEMENTATION:
+AI RESPONSE IMPLEMENTATION:
 | n       | Time (s)  |
 |---------|-----------|
 | 5       | 0.002687  |
